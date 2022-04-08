@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/043_Shopping_Page_With_Router/static/css/main.88b0b2f8.css",
+    "main.js": "/043_Shopping_Page_With_Router/static/js/main.f20352e3.js",
+    "static/media/background.jpg": "/043_Shopping_Page_With_Router/static/media/background.bb2bec915b2a4d35c71b.jpg",
+    "static/media/homeBackground.jpg": "/043_Shopping_Page_With_Router/static/media/homeBackground.3f0e7b4edd0d10230044.jpg",
+    "static/media/background2.jpg": "/043_Shopping_Page_With_Router/static/media/background2.4c26876f5038b2a07a07.jpg",
+    "static/media/about-as-service-contact-information.jpg": "/043_Shopping_Page_With_Router/static/media/about-as-service-contact-information.fc3a216c47a08df265f3.jpg",
+    "static/media/1.jpg": "/043_Shopping_Page_With_Router/static/media/1.0a1576488bac8c90dd80.jpg",
+    "static/media/photo1.png": "/043_Shopping_Page_With_Router/static/media/photo1.53cb787d52ff561a842c.png",
+    "static/media/photo3.png": "/043_Shopping_Page_With_Router/static/media/photo3.db903a1f7cd3d63fb811.png",
+    "static/media/photo2.png": "/043_Shopping_Page_With_Router/static/media/photo2.3bd57a7650ba15a7fb4a.png",
+    "index.html": "/043_Shopping_Page_With_Router/index.html",
+    "main.88b0b2f8.css.map": "/043_Shopping_Page_With_Router/static/css/main.88b0b2f8.css.map",
+    "main.f20352e3.js.map": "/043_Shopping_Page_With_Router/static/js/main.f20352e3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88b0b2f8.css",
+    "static/js/main.f20352e3.js"
+  ]
+}
