@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.productContainer {
+  background-color: #D4E2D4;
+  background-image:url(../../assets/background.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin: 0 auto;
+  padding: 4rem 0;
+  font-family: 'Open Sans', sans-serif;
+  width: 100%;
+  min-height: 100%;
+}
+
+.products {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 1rem auto;
+  max-width: 1200px;
+  padding: 0 20px;
+  margin-top: 3rem;
+}
+
+.product {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  width: 280px;
+  margin-bottom: 1.5rem;
+  text-decoration: none;
+  color: #534d4e;
+  border-radius: 16px;
+  background: #e0e0e0;
+  box-shadow:  6px 6px 12px #c1c1c1,
+               -6px -6px 12px #ffffff;
+  padding: 15px;
+  cursor: pointer;
+  font-size: large;
+  transition: 0.5s;
+  opacity: 0.8;
+}
+
+.product:hover {
+  background-image: linear-gradient(to top, #a8edea 0%, #fed6e3 100%);
+}
+
+.product>* {
+  margin-bottom: 0.5rem;
+
+}
+
+.product img {
+  margin-top: 1rem;
+  box-shadow: 5px 10px 18px #4b2013;
+  opacity: 0.9;
+  border-radius: 5px;
+}

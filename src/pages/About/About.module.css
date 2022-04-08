@@ -1,0 +1,55 @@
+.about{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 95vh;
+    justify-content: center;
+    align-items: center;
+    padding: 0 10rem;
+    background-image: url(../../assets/about-as-service-contact-information.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.about > *{
+    margin-bottom: 1rem;
+}
+
+.textBox{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    width: 100%;
+    max-width: 50rem;
+    margin-top: 7rem;
+    padding: 1rem 2rem;
+    background-color: rgba(255,255,255,0.5);
+    border-radius: 1rem;
+}
+.cards{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10rem;
+}
+.card{
+    width: 20%;
+    margin: 2rem;
+    padding: 0.1rem 0.1rem;
+    border-radius: 0.3rem;
+    background-color: rgba(255,255,255,0.5);
+}
+.cardImage{
+    width: 100%;
+    height: 20rem;
+    border-radius: 0.3rem;
+    opacity: 0.8;
+}
+
+.cardText{
+    padding: 0.5rem 0.5rem 0 0.5rem;
+    text-align: left;
+}

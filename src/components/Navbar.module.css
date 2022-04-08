@@ -1,0 +1,26 @@
+NavLink{
+  text-decoration: none;
+}
+
+.navbar{
+  height: 5rem;
+  font-size: 1.5rem;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border-bottom: 1px solid grey;
+  background-color: rgba(108, 110, 110, 0.75);
+  width: 100%;
+  position: fixed;
+  top: 0%;
+  z-index: 1;
+}
+
+.navbar > *{
+  color: white;
+}
+.activeStyle {
+  color: #b2f8ef;
+  text-decoration: none;
+  border-top: 2px solid #b2f8ef;
+}
